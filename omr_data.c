@@ -4,6 +4,7 @@
 #define data_length 92
 #define data_number 3500
 
+
 main()
 {
     int i,j,k,n, int_temp, match_found,t;
