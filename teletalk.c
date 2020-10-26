@@ -1,5 +1,6 @@
 #include<stdio.h>
 #define data_number 3500
+
 main()
 {
     int row,i,h,int_temp,a,b,match_found,n;
