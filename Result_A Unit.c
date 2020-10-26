@@ -7,7 +7,6 @@
 #define row 2
 #define column data_number
 
-
     struct
     {
     int serial_number;
